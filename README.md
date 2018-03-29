@@ -1,6 +1,5 @@
-### weex 入场、出场动画效果
+### weex 页面入场、出场动画效果
 
-- vuex使用routerHistory数组存储router 
 - 原理    
 使用vuex存储routerHistory用来存储路由历史 路由跳转时将目标路由push到routerHistory中     
     - 入场动画      
